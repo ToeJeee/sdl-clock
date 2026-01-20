@@ -11,7 +11,7 @@ Displays hours, minutes and seconds along with AM/PM (for 12 hour format) with a
 - Ability to freely switch between 24 hour and 12 hour time formats
 - Clear AM/PM distinction in 12 hour format
 - Custom font used : **GohuFont11NerdFontMono-Regular.ttf** (licensed under WTFPL)
-- Colou-coded boxes and neat UI elements
+- Colour-coded boxes and neat UI elements
 
 -------
 
