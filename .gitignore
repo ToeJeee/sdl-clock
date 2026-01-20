@@ -1,0 +1,11 @@
+# Compiled files
+*.exe
+*.dll
+*.o
+*.out
+
+# dll runtime artifcats
+SDL2.dll
+
+# ide stuff
+.vscode
