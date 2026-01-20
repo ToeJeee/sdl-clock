@@ -1,17 +1,17 @@
 # SDL 2 Clock in C
 
-A digital clock written in **C using the SDL2 library**, **supports both 24 hour and 12 hour time formats**
-Displays hours, minutes and seconds along with AM/PM (for 12 hour format) with a neat and clear UI
+A digital clock written in **C using the SDL2 library**, **supports both 24 hour and 12 hour time formats.**
+Displays hours, minutes and seconds along with AM/PM (for 12 hour format) with a neat and clear UI.
 
 -------
 
 ## Features:
 
-- Real-time clock with hours, minutes and seconds displayed
-- Ability to freely switch between 24 hour and 12 hour time formats
-- Clear AM/PM distinction in 12 hour format
-- Custom font used : **GohuFont11NerdFontMono-Regular.ttf** (licensed under WTFPL)
-- Colour-coded boxes and neat UI elements
+- Real-time clock with hours, minutes and seconds displayed.
+- Ability to freely switch between 24 hour and 12 hour time formats.
+- Clear AM/PM distinction in 12 hour format.
+- Custom font used : **GohuFont11NerdFontMono-Regular.ttf.** (licensed under WTFPL, see `GohuFont-WTFTPL.txt` for the full license)
+- Colour-coded boxes and neat UI elements.
 
 -------
 
