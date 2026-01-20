@@ -10,7 +10,7 @@ Displays hours, minutes and seconds along with AM/PM (for 12 hour format) with a
 - Real-time clock with hours, minutes and seconds displayed.
 - Ability to freely switch between 24 hour and 12 hour time formats.
 - Clear AM/PM distinction in 12 hour format.
-- Custom font used : **GohuFont11NerdFontMono-Regular.ttf.** (licensed under WTFPL, see `GohuFont-WTFTPL.txt` for the full license)
+- Custom font used : **GohuFont11NerdFontMono-Regular.ttf.** (licensed under WTFPL, see `GohuFont-WTFPL.txt` for the full license)
 - Colour-coded boxes and neat UI elements.
 
 -------
