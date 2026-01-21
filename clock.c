@@ -1,5 +1,5 @@
 // CLOCK USING SDL AND C
-// Font used: GohuFont11NerdFontMono-Regular.ttf (WTFTPL)
+// Font used: GohuFont11NerdFontMono-Regular.ttf (WTFPL)
 
 // HANDLE MAIN
 #define SDL_MAIN_HANDLED
@@ -151,3 +151,4 @@ int main()
     return 0;
 
 }
+
